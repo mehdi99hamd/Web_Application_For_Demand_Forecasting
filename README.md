@@ -26,7 +26,7 @@ d:
 ```bash
 cd D:\Angular\Angular_FrontEnd
 ```
-- install the project :
+- Install the project ( for only the first time ):
 ```bash
 npm install
 ```
