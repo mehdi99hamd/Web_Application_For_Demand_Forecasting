@@ -26,6 +26,10 @@ d:
 ```bash
 cd D:\Angular\Angular_FrontEnd
 ```
+- install the project :
+```bash
+npm install
+```
 - Launch server :
 ```bash
 ng serve -o
