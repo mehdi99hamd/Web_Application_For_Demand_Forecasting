@@ -24,7 +24,7 @@ npm install -g @angular/cli
 d:
 ```
 ```bash
-cd D:\Angular\Angular_FrontEnd
+cd D:\Angular\Angular_FrontEnd-main
 ```
 - Install the project ( for only the first time ):
 ```bash
